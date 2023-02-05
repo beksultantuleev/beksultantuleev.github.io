@@ -154,7 +154,7 @@ params:
         - "JavaScript"
         - "React"
         - "Node"
-        - "Express"
+        - "Express" 
 
   # Experience
   experience:
