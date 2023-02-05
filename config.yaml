@@ -160,8 +160,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Data Automation Engineer"
-        company: "O! Mobiler Carrier"
+      - job: "Data Engineer"
+        company: "O Mobiler Carrier"
         companyUrl: "https://o.kg"
         date: "Apr 2022 - present"
         featuredLink:
