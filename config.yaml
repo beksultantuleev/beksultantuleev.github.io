@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Beksultan Tueev"
+  title: "Beksultan Tuleev"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/BT logo.png"
@@ -102,7 +102,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Beks Kazama" # Brand name for the brand | default is the title variable
+    brandName: "Beksultan Tuleev" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
       disableAbout: false
