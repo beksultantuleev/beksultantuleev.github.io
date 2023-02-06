@@ -56,7 +56,7 @@ params:
   title: "Beksultan Tuleev"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/BT logo.png"
+  favicon: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -119,7 +119,7 @@ params:
     title: "Beksultan."
     subtitle: "I am Data Scientist"
     content: "A passionate Data Scientist and Data Automation Engineer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /BT logo.png
+    image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png
     button:
       enable: true
       name: "Resume"
