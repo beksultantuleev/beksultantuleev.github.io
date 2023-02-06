@@ -1,6 +1,6 @@
 baseURL: "https://beksultantuleev.github.io/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Beksultan Tuleev"
 theme: hugo-profile
 
 outputs:
@@ -53,10 +53,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "Beksultan Tueev"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/BT logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -102,7 +102,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Beks Kazama" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
       disableAbout: false
@@ -119,7 +119,7 @@ params:
     title: "Beksultan."
     subtitle: "I am Data Scientist"
     content: "A passionate Data Scientist and Data Automation Engineer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    image: /BT logo.png
     button:
       enable: true
       name: "Resume"
@@ -133,7 +133,7 @@ params:
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:
-        - icon: /fav.png
+        - icon: /BT logo.png
           url: "https://example.com"
 
   # About
