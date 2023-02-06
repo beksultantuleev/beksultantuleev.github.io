@@ -160,26 +160,29 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Data Engineer"
+      - job: "Data Analytics Engineer"
         company: "O Mobiler Carrier"
         companyUrl: "https://o.kg"
         date: "Apr 2022 - present"
         featuredLink:
           enable: true
-          url: "https://www.theopenworkpartnership.com/about-us/"
+          url: "https://www.o.kg/"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a Data Engineer and Data Scientist.
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Improved ML model prediction of Active Customers for next fiscal month with 99% recall and precision.
+          - Developed pip library for statistics department (nurtelecom-gras-library) that assisted majority pro jects.
+          - Developed a Telegram bot for managing scheduled tasks (on-demand start and stop) that vastly improved and simplified managing and monitoring work for the entire department.
+          - Developed neural network-based time-series forecasting of Active Customers’ numbers in Python (TensorFlow) with visualisation in Tableau.
+          - Became one of the best employees (Q4 2022) for developing progressive reporting systems and automating processes..
 
 
       - job: "Data Scientist"
         company: "The Openwork Partnership"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.theopenworkpartnership.com/about-us/"
         date: "Sep 2021 - Oct 2021"
         featuredLink:
           enable: true
@@ -190,42 +193,43 @@ params:
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Developed Multi-Output ML models for predicting customers with a high likelihood of purchasing protection products in different income segments.
+          - Developed a custom framework to operate multiple models with embedded report creation upon completion that simplifies further ML applications.
+          - Developed an in-depth visualization approach accompanied by classification or clustering problems.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      # - job: "Junior Software Developer"
+      #   company: "Apple"
+      #   companyUrl: "https://example.com"
+      #   date: "Jan 2020 - Aug 2020"
+      #   info:
+      #     enable: false
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
+      #   content: |
+      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      #     - Lead backend developer for a product.
+      #     - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      # - job: "UI/UX Designer"
+      #   company: "Netflix"
+      #   companyUrl: "https://example.com"
+      #   date: "June 2017 - Nov 2019"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
+      #   content: |
+      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      #     - Lead backend developer for a product.
+      #     - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      # - job: "Product Designer"
+      #   company: "Google"
+      #   companyUrl: "https://example.com"
+      #   date: "Feb 2016 - Mar 2017"
+      #   content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
@@ -233,22 +237,50 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master Science in Data Science"
+      - title: "Master of Science in Data Science"
         school:
           name: "University of Trento, Italy"
           url: "https://www.unitn.it/"
         date: "2019 - 2021"
-        Grade: "100 out of 110"
+        GPA: "100 out of 110"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          Master's Thesis: 
+            - Non-line-of-sight Detection And Mitigation Using Machine Learning For Indoor Positioning Ultra-wideband System
+          
+          Relevant Coursework
+            - Big Data (Knime, AWS) 
+            - Data Mining 
+            - Machine Learning (sklearn) 
+            - Web Architecture (Java, Angular) 
+            - Embedded Systems (C, Linux, Raspberry Pi) 
+            - Distributed Systems (MatLab) 
+            - Scientific Programming (Python) 
+            - Deep Learning (TensorFlow) 
+            - Statistics (R) 
+            - Visualisation (Matplotlib, Tableau, Power Bi)
+      
+      - title: "Master of Arts in Economic Governance and Development"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "OSCE Academy, Kyrgyz Republic"
+          url: "https://www.unitn.it/"
+        date: "2017 - 2018"
+        # GPA: "100 out of 110"
+        content: |-
+          Master's Thesis: 
+            - The Impact of Trade Openness on Technical Efficiency in the Agricultural Sector in Post-Soviet Countries 1990-2014
+          
+          Relevant Coursework
+            - Statistics
+            - Econometrics 
+            - Trade
+
+
+      - title: "Bachelor of Arts in Economics and applied Mathematics"
+        school:
+          name: "American University of Central Asia"
+          url: "https://auca.kg"
+        date: "2013 - 2017"
+        # GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
