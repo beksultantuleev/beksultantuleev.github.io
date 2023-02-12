@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Beksultan Tuleev"
-  description: Text about my cool site
+  description: Personal blog
   # staticPath: ""  # The path to serve the static files from
   favicon: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png"
 
@@ -117,8 +117,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Beksultan."
-    subtitle: "I am Data Scientist"
-    content: "A passionate Data Scientist and Data Automation Engineer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I am Industrial Data Scientist"
+    content: "Experienced Data Scientist with 3 years in the field, passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
     image: "https://www.freepnglogos.com/uploads/coffee-logo-png/hot-coffee-logos-28.png"
     button:
       enable: true
@@ -150,18 +150,23 @@ params:
         - "Python"
         - "TensorFlow"
         - "Scikit-Learn"
-        - "R"
-        - "Java"
-        - "JavaScript"
-        - "Angular"
+        - "GIT"
+        - "Selenium"
+        - "Tableau"
+        - "PL/SQL"
+        - "Powershell / Bash"
+        - "Aiogram"
+        - "Kafka"
+        - "MQTT"
+        - "Node-red"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Data Analytics Engineer"
-        company: "O Mobiler Carrier"
+      - job: "Data Analytics Engineer / Data Scientist"
+        company: "O Mobile Carrier"
         companyUrl: "https://o.kg"
         date: "Apr 2022 - present"
         featuredLink:
@@ -169,9 +174,9 @@ params:
           url: "https://www.o.kg/"
         info:
           enable: true
-          content: I worked as a Data Engineer and Data Scientist.
+          content: I worked as a Data Analytics Engineer and Data Scientist.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          As a Data Analytics Engineer, my main focus was to improve workflow efficiency and automation of reports. I achieved this by introducing new methods for auto monitoring and restarting tasks/jobs in case of system failures. I'm particularly proud of this innovation, as it significantly improved productivity for the team. Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, where I delivered a few network coverage projects from scratch. These projects were essential to improving the company's infrastructure. Overall, my work demonstrated my expertise in both data analytics and spatial analysis, as well as my ability to implement innovative solutions that increased efficiency and productivity.
 
           - Improved ML model prediction of Active Customers for next fiscal month with 99% recall and precision.
           - Developed pip library for statistics department (nurtelecom-gras-library) that assisted majority pro jects.
@@ -189,7 +194,7 @@ params:
           url: "https://www.theopenworkpartnership.com/about-us/"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as Data Scientist Intern.
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
@@ -241,7 +246,7 @@ params:
         school:
           name: "University of Trento, Italy"
           url: "https://www.unitn.it/"
-        date: "2019 - 2021"
+        date: "2019 - 2022"
         GPA: "100 out of 110"
         content: |-
           Master's Thesis: 
@@ -262,7 +267,7 @@ params:
       - title: "Master of Arts in Economic Governance and Development"
         school:
           name: "OSCE Academy, Kyrgyz Republic"
-          url: "https://www.unitn.it/"
+          url: "https://www.osce-academy.net/en/"
         date: "2017 - 2018"
         # GPA: "100 out of 110"
         content: |-
@@ -282,25 +287,41 @@ params:
         date: "2013 - 2017"
         # GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          Bachelor's Thesis: 
+            - Quantitative Economics Research, The Application Of Dantzig's Simplex Algorithm On The Micro-construction CompanyBachelor's.
+          
+          Relevant Coursework (Programming)
+            - Object-Oriented Programming (Java)
+            - Numerical Methods (C#)
+            - Physics and Computer modeling (Octave)
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          Relevant Coursework (Mathematics)
+            - Linear Algebra and Analytic Geometry
+            - Mathematical Analysis
+            - Functional Analysis
+            - Game Theory
+            - Optimization Methods
+            - The Theory of Probabilities and Mathematical Statistics
+            - Numerical Methods
+
+          Relevant Coursework (Economics)
+            - Intermediate Microeconomics Theory, Intermediate Macroeconomic Theory, Mathematical  Economics, Applied Econometrics, Monetary and Banking Theory, International Economics, Economic Development, Economic Research Methods, Economics of the Public Sector
+          
+
+
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
+      
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "School #61 "
+          url: "https://61.edubish.kg/"
+        # GPA: "4.2 out of 5.0"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
 
   # Achievements
   achievements:
@@ -310,6 +331,7 @@ params:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
         url: https://example.com
+        
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
       - title: Hugo Profile
