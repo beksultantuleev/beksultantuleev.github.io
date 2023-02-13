@@ -151,7 +151,9 @@ params:
         - "TensorFlow"
         - "Scikit-Learn"
         - "GIT"
-        - "Selenium"
+        - "Docker"
+        - "WSL"
+        - "Selenium / Scrapy"
         - "Tableau"
         - "PL/SQL"
         - "Powershell / Bash"
@@ -166,7 +168,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Data Analytics Engineer / Data Scientist"
-        company: "O Mobile Carrier"
+        company: O Mobile Carrier
         companyUrl: "https://o.kg"
         date: "Apr 2022 - present"
         featuredLink:
@@ -328,13 +330,14 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: One of the Best Employees (Q4, 2022)
+        content: Developed progressive reporting systems.
+        url: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/certificates/best_emp.pdf
+
       - title: Unix/Linux Administration
         content: Completed course and passed exam.
         url: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/certificates/linux_administration.pdf
 
-      - title: Unix/Linux Installation
-        content: Completed course and passed exam.
-        url: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/certificates/linux_installation.pdf
       
       - title: Unix/Linux Security
         content: Completed course and passed exam.
@@ -344,9 +347,10 @@ params:
         content: Completed course.
         url: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/certificates/project_management.pdf
 
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: Unix/Linux Installation
+        content: Completed course and passed exam.
+        url: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/certificates/linux_installation.pdf
+      
 
   # projects
   projects:
