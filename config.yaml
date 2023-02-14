@@ -198,7 +198,6 @@ params:
           enable: true
           content: I worked as Data Scientist Intern.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Developed Multi-Output ML models for predicting customers with a high likelihood of purchasing protection products in different income segments.
           - Developed a custom framework to operate multiple models with embedded report creation upon completion that simplifies further ML applications.
@@ -357,16 +356,17 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
+      - title: LOS/NLOS detection and Mitigation 
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
         image: /images/projects/profile.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Rasbperry Pi"
+          - "Python"
+          - "UWB"
+          - "Tensorflow"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -436,5 +436,5 @@ params:
   # Single pages like blog and post
   singlePages:
     readTime:
-      enable: true
+      enable: false
       content: "min read"
