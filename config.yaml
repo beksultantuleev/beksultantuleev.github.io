@@ -377,7 +377,7 @@ params:
 
       - title: Real-time Location Tracking and Trilateral Wi-Fi Positioning
         content: The system provides robust real-time Indoor Position Calculation Based on Wi-Fi signal strength. In addition to that, the system is capable of sending warning messages (via all means of messaging) in case of certain distance violations (in compliance with COVID-19 pandemic rules).
-        image: /images/projects/converter.jpg
+        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/with_anchors.JPG
         featured:
           name: Wi-Fi Positioning
           link: https://github.com/beksultantuleev/wifi_rssi_localization
