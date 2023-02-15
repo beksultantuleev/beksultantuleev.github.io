@@ -356,51 +356,70 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: LOS/NLOS detection and Mitigation 
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: LOS/NLOS detection and mitigation 
+        content: The system provides robust calculation of indoor position via UWB system. The mitigation approach by pre-trained ML models makes it significantly less susceptible to NLOS scenarios.
+        # image: /images/projects/profile.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: LOS/NLOS detection and mitigation
+          link: https://github.com/beksultantuleev/LOS_NLOS_detection
         badges:
           - "Rasbperry Pi"
           - "Python"
           - "UWB"
           - "Tensorflow"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          # - icon: fa fa-envelope
+          #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+            url: https://github.com/beksultantuleev/LOS_NLOS_detection
+          # - icon: fab fa-twitter
+          #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      - title: Real-time Location Tracking and Trilateral Wi-Fi Positioning
+        content: The system provides robust real-time Indoor Position Calculation Based on Wi-Fi signal strength. In addition to that, the system is capable of sending warning messages (via all means of messaging) in case of certain distance violations (in compliance with COVID-19 pandemic rules).
         image: /images/projects/converter.jpg
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: Wi-Fi Positioning
+          link: https://github.com/beksultantuleev/wifi_rssi_localization
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Python"
+          - "Node-red"
+          - "MQTT"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/beksultantuleev/wifi_rssi_localization
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Application of Ultra-Wideband System in Unmanned Areal Vehicle (UAV)
+        content: The system provides accurate positioning for small UAVs or mini Drones for Indoor use. Kalman filter that combines the Inertial Measurement Unit (IMU) of a UAV with an external UWB tag ensures a centimetre accuracy for indoor areal handling.
         image: /images/projects/profile2.jpg
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: UAV with UWB
+          link: https://github.com/beksultantuleev/Mambo_UAV_with_UWB
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Python"
+          - "MQTT"
+          - "Mambo UAV"
+          - "WSL"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/beksultantuleev/Mambo_UAV_with_UWB
+
+      - title: Real-time motion recognition with Deep Learning (DL) Neural Network model application
+        content: Real-time motion recognition with Deep Learning (DL) Neural Network model application.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Motion recognition
+          link: https://github.com/beksultantuleev/motionRecognition
+        badges:
+          - "TensorFlow"
+          - "STM32CubeIDE"
+          - "Raspberry Pi" 
+          - "STM32 Nucleo F401re"
+          - "UWB"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/beksultantuleev/motionRecognition
+
 
   #Contact
   contact:
