@@ -358,7 +358,7 @@ params:
     items:
       - title: LOS/NLOS detection and mitigation 
         content: The system provides robust calculation of indoor position via UWB system. The mitigation approach by pre-trained ML models makes it significantly less susceptible to NLOS scenarios.
-        # image: /images/projects/profile.png
+        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/los_nlos_pic.png
         featured:
           name: LOS/NLOS detection and mitigation
           link: https://github.com/beksultantuleev/LOS_NLOS_detection
@@ -367,6 +367,8 @@ params:
           - "Python"
           - "UWB"
           - "Tensorflow"
+          - "C"
+          - "WSL"
         links:
           # - icon: fa fa-envelope
           #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -385,6 +387,8 @@ params:
           - "Python"
           - "Node-red"
           - "MQTT"
+          - "WSL"
+          - "C"
         links:
           - icon: fab fa-github
             url: https://github.com/beksultantuleev/wifi_rssi_localization
@@ -399,6 +403,7 @@ params:
           - "Python"
           - "MQTT"
           - "Mambo UAV"
+          - "Rasbperry Pi"
           - "WSL"
         links:
           - icon: fab fa-github
