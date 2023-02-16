@@ -178,7 +178,9 @@ params:
           enable: true
           content: I worked as a Data Analytics Engineer and Data Scientist.
         content: |
-          As a Data Analytics Engineer, my main focus was to improve workflow efficiency and automation of reports. I achieved this by introducing new methods for auto monitoring and restarting tasks/jobs in case of system failures. I'm particularly proud of this innovation, as it significantly improved productivity for the team. Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, where I delivered a few network coverage projects from scratch. These projects were essential to improving the company's infrastructure. Overall, my work demonstrated my expertise in both data analytics and spatial analysis, as well as my ability to implement innovative solutions that increased efficiency and productivity.
+          As a Data Analytics Engineer, my main focus was to improve workflow efficiency and automation of reports. I achieved this by introducing new methods for auto monitoring and restarting tasks/jobs in case of system failures. I'm particularly proud of this innovation, as it significantly improved productivity for the team. 
+          
+          Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, where I delivered a few network coverage projects from scratch. These projects were essential to improving the company's infrastructure. Overall, my work demonstrated my expertise in both data analytics and spatial analysis, as well as my ability to implement innovative solutions that increased efficiency and productivity.
 
           - Improved ML model prediction of Active Customers for next fiscal month with 99% recall and precision.
           - Developed pip library for statistics department (nurtelecom-gras-library) that assisted majority projects.
@@ -198,6 +200,9 @@ params:
           enable: true
           content: I worked as Data Scientist Intern.
         content: |
+          As a Data Scientist Intern, I have been working on developing MultiOutput ML models to predict customers with a high likelihood of purchasing protection products in different income segments. Through my work, I have also created a custom framework that enables the operation of multiple models and generates embedded reports upon completion. This framework simplifies further ML applications and helps to streamline the entire process.
+
+          Overall, my work has been focused on creating predictive models that can provide valuable insights into customer behavior and preferences, and help to identify potential areas for growth and expansion. By leveraging the power of data and machine learning, I have been able to develop models that can accurately predict customer behavior and help to inform strategic decision-making
 
           - Developed Multi-Output ML models for predicting customers with a high likelihood of purchasing protection products in different income segments.
           - Developed a custom framework to operate multiple models with embedded report creation upon completion that simplifies further ML applications.
