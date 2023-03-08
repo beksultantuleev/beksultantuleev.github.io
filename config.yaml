@@ -168,7 +168,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Data Analytics Engineer / Data Scientist"
-        company: O Mobile Carrier
+        company: Nurtelecom
         companyUrl: "https://o.kg"
         date: "Apr 2022 - present"
         featuredLink:
@@ -182,9 +182,18 @@ params:
           
           Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, where I delivered a few network coverage projects from scratch. These projects were essential to improving the company's infrastructure. Overall, my work demonstrated my expertise in both data analytics and spatial analysis, as well as my ability to implement innovative solutions that increased efficiency and productivity.
 
-          - Improved ML model prediction of Active Customers for next fiscal month with 99% recall and precision.
-          - Developed pip library for statistics department (nurtelecom-gras-library) that assisted majority projects.
-          - Developed a Telegram bot for managing scheduled tasks (on-demand start and stop) that vastly improved and simplified managing and monitoring work for the entire department.
+          - Developed and implemented a machine learning project to predict active customers for a major cell provider.
+          - Trained four models and incorporated automatic feature selection every month to ensure optimal performance.
+          - Achieved impressive results with about 99% recall and precision.
+          - Identified customers likely to reduce activity two weeks earlier, providing valuable insights to the marketing department.
+          - Created an opportunity to improve customer retention and increase revenue for the company.
+          - Developed a Python library for streamlined connection to Oracle databases, enabling efficient retrieval and upload of both regular and spatial data.
+          - Created a custom pip package to simplify Oracle database access and data management, improving productivity and accuracy of departmental operations.
+          - Designed and implemented a versatile library to facilitate connection and manipulation of Oracle databases, leveraging efficient algorithms for seamless handling of spatial data.
+          - Developed a powerful Python module for Oracle database connectivity and data handling, automating complex tasks and boosting performance of data-intensive operations.
+          - Developed a Telegram bot to streamline task and job management in Oracle, reducing the time and effort required for maintenance and control of these processes.
+          - Implemented automatic failure recovery, which allows failed tasks to be automatically restarted in the event of external failures, improving system reliability and reducing downtime.
+          - Contributed to increased productivity and efficiency within the department by providing an accessible and user-friendly interface for managing complex processes.
           - Developed neural network-based time-series forecasting of Active Customers’ numbers in Python (TensorFlow) with visualisation in Tableau.
           - Became one of the best employees (Q4 2022) for developing progressive reporting systems and automating processes.
 
@@ -204,10 +213,12 @@ params:
 
           Overall, my work has been focused on creating predictive models that can provide valuable insights into customer behavior and preferences, and help to identify potential areas for growth and expansion. By leveraging the power of data and machine learning, I have been able to develop models that can accurately predict customer behavior and help to inform strategic decision-making
 
-          - Developed Multi-Output ML models for predicting customers with a high likelihood of purchasing protection products in different income segments.
-          - Developed a custom framework to operate multiple models with embedded report creation upon completion that simplifies further ML applications.
-          - Developed an in-depth visualization approach accompanied by classification or clustering problems.
+          - Developed and trained multi-output models to predict customers' likelihood of purchasing protection products.
+          - Created a separate model for each offered protection product and segmented it based on earning groups.
+          - Achieved great results that were very helpful for the marketing team.
+          - Generated reports with necessary graphs and analysis to showcase the findings.
 
+      
       # - job: "Junior Software Developer"
       #   company: "Apple"
       #   companyUrl: "https://example.com"
