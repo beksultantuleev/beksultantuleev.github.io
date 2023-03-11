@@ -188,15 +188,15 @@ params:
           - Identified customers likely to reduce activity two weeks earlier, providing valuable insights to the marketing department.
           - Created an opportunity to improve customer retention and increase revenue for the company.
           - Developed a Python library for streamlined connection to Oracle databases, enabling efficient retrieval and upload of both regular and spatial data.
-          - Created a custom pip package to simplify Oracle database access and data management, improving productivity and accuracy of departmental operations.
           - Designed and implemented a versatile library to facilitate connection and manipulation of Oracle databases, leveraging efficient algorithms for seamless handling of spatial data.
-          - Developed a powerful Python module for Oracle database connectivity and data handling, automating complex tasks and boosting performance of data-intensive operations.
           - Developed a Telegram bot to streamline task and job management in Oracle, reducing the time and effort required for maintenance and control of these processes.
           - Implemented automatic failure recovery, which allows failed tasks to be automatically restarted in the event of external failures, improving system reliability and reducing downtime.
           - Contributed to increased productivity and efficiency within the department by providing an accessible and user-friendly interface for managing complex processes.
           - Developed neural network-based time-series forecasting of Active Customers’ numbers in Python (TensorFlow) with visualisation in Tableau.
           - Became one of the best employees (Q4 2022) for developing progressive reporting systems and automating processes.
-
+# - Created a custom pip package to simplify Oracle database access and data management, improving productivity and accuracy of departmental operations.
+#           - Developed a powerful Python module for Oracle database connectivity and data handling, automating complex tasks and boosting performance of data-intensive operations.
+          
 
       - job: "Data Scientist"
         company: "The Openwork Partnership"
