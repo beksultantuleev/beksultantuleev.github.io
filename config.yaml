@@ -119,6 +119,7 @@ params:
     title: "Beksultan."
     subtitle: "I am Industrial Data Scientist"
     content: "Experienced Data Scientist with 3 years in the field, passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
+    # image: "https://www.freepnglogos.com/uploads/coffee-logo-png/hot-coffee-logos-28.png"
     image: "https://www.freepnglogos.com/uploads/coffee-logo-png/hot-coffee-logos-28.png"
     button:
       enable: true
