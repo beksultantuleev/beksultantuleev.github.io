@@ -374,6 +374,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      
+      - title: Visualization of Signal coverage in Tableau
+        content: The system provides robust calculation of indoor position via UWB system. The mitigation approach by pre-trained ML models makes it significantly less susceptible to NLOS scenarios.
+        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/los_nlos_pic.png
+        featured:
+          name: Signal coverage in Tableau 
+          link: https://github.com/beksultantuleev/LOS_NLOS_detection
+        badges:
+          - "NetMAX"
+          - "Python"
+          - "Oracle"
+          - "Shapely"
+          - "GeoPandas"
+          - "WSL"
+
       - title: LOS/NLOS detection and mitigation 
         content: The system provides robust calculation of indoor position via UWB system. The mitigation approach by pre-trained ML models makes it significantly less susceptible to NLOS scenarios.
         image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/los_nlos_pic.png
