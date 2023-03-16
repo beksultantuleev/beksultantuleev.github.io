@@ -169,7 +169,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Data Analytics Engineer / Data Scientist"
+      - job: "Data Scientist / Data Automation Engineer"
         company: Nurtelecom
         companyUrl: "https://o.kg"
         date: "Apr 2022 - present"
