@@ -203,7 +203,7 @@ params:
       - job: "Data Scientist"
         company: "The Openwork Partnership"
         companyUrl: "https://www.theopenworkpartnership.com/about-us/"
-        date: "Sep 2021 - Oct 2021"
+        date: "Jun 2021 - Oct 2021"
         featuredLink:
           enable: true
           url: "https://www.theopenworkpartnership.com/about-us/"
