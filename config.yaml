@@ -127,15 +127,20 @@ params:
       url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_s_cv.pdf"
       download: true
       newPage: false
+
     socialLinks:
       fontAwesomeIcons:
+        - icon: fas fa-paperclip
+          url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_CV.pdf"
         - icon: fab fa-github
           url: https://www.github.com/beksultantuleev
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/beksultan-t-33b6601b6/
-      customIcons:
-        - icon: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png"
-          url: "https://beksultantuleev.github.io/"
+        
+
+      # customIcons:
+      #   - icon: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png"
+      #     url: "https://beksultantuleev.github.io/"
 
   # About
   about:
