@@ -117,8 +117,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Beksultan."
-    subtitle: "I am Industrial Data Scientist"
-    content: "Experienced Data Scientist with 3 years in the field, passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
+    subtitle: "I am Data Scientist"
+    content: "Experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
     image: "https://i.pinimg.com/736x/f9/71/03/f971034a518508cc5c39e19584557a02.jpg"
     # image: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/photo_in_classic.JPG"
     button:
