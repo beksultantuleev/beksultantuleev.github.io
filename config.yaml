@@ -117,9 +117,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Beksultan."
-    subtitle: "I am Data Scientist"
+    subtitle: "I am"
     content: "Experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
-    image: "https://i.pinimg.com/736x/f9/71/03/f971034a518508cc5c39e19584557a02.jpg"
+    # image: "https://i.pinimg.com/736x/f9/71/03/f971034a518508cc5c39e19584557a02.jpg"
     # image: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/photo_in_classic.JPG"
     button:
       enable: true
@@ -147,7 +147,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/photo_in_classic.JPG"
+    # image: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/photo_in_classic.JPG"
     # image: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/profile_photo.jpg"
     content: |-
       I am a data professional with a Master's degree in Data Science and experience in data analytics and machine learning. My goal is to help organizations make data-driven decisions and improve their operations through the use of advanced analytical techniques. I am always looking for new and challenging opportunities to apply my skills and knowledge to make a positive impact on businesses and industries.
