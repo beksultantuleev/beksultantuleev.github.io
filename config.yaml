@@ -120,7 +120,9 @@ params:
     subtitle: "I am"
     content: "Experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
     # image: "https://i.pinimg.com/736x/f9/71/03/f971034a518508cc5c39e19584557a02.jpg"
-    image: "https://unsplash.com/photos/KABfjuSOx74/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8bmV0d29ya3xlbnwwfHx8fDE2ODIzOTM5MDg&force=true"
+    # image: "https://unsplash.com/photos/KABfjuSOx74/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8bmV0d29ya3xlbnwwfHx8fDE2ODIzOTM5MDg&force=true"
+    image: "https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif"
+    # image: "https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif"
     button:
       enable: true
       name: "Resume"
