@@ -136,6 +136,8 @@ params:
       fontAwesomeIcons:
         - icon: fas fa-paperclip
           url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_CV.pdf"
+        - icon: fas fa-paperclip
+          url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_ds_cv.pdf"
         - icon: fab fa-github
           url: https://www.github.com/beksultantuleev
         - icon: fab fa-linkedin
