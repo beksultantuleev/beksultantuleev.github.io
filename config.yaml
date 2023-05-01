@@ -380,11 +380,10 @@ params:
       
       - title: Visualization of Reference Signal Received Power in Tableau
         content: The project visualizes signal strength data obtained from NetMAX using Tableau, a powerful data visualization software. By representing the average signal strength or RSRP (Reference Signal Received Power) of each point on a map, the project enables users to easily identify areas with poor signal coverage. With this information, network operators can take the necessary steps to improve the quality of their network coverage in these areas, ultimately leading to a better user experience for their customers. Overall, the project offers a simple and effective solution for analyzing and optimizing network coverage.
-        # image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/signal_coverage_netmax_.png
-        image: https://github.com/beksultantuleev/LOS_NLOS_detection/raw/main/data/gif_files/los_nlos_8sec.gif
+        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/signal_coverage_netmax_.png
         featured:
           name: Signal coverage in Tableau 
-          link: https://github.com/beksultantuleev/LOS_NLOS_detection
+          # link: https://github.com/beksultantuleev/LOS_NLOS_detection
         badges:
           - "NetMAX"
           - "Tableau"
@@ -399,7 +398,7 @@ params:
         image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/paid_subs_per_settlement.png
         featured:
           name: Subscribers in Tableau 
-          link: https://github.com/beksultantuleev/LOS_NLOS_detection
+          # link: https://github.com/beksultantuleev/LOS_NLOS_detection
         badges:
           - "Tableau"
           - "Python"
@@ -412,7 +411,7 @@ params:
         image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/active_customers_migration.png
         featured:
           name: Migration of Active Customers in Tableau 
-          link: https://github.com/beksultantuleev/LOS_NLOS_detection
+          # link: https://github.com/beksultantuleev/LOS_NLOS_detection
         badges:
           - "Tableau"
           - "Python"
@@ -422,7 +421,8 @@ params:
 
       - title: LOS/NLOS detection and mitigation 
         content: This project used an Ultra-Wideband (UWB) system to improve indoor positioning accuracy by training a machine learning model to detect Non-Line-Of-Sight (NLOS) signals caused by obstacles like walls and furniture. The model was a neural network that could identify NLOS signals, and was combined with filters that conditionally ignore NLOS measurements. The project's findings could improve location-based services in various domains like healthcare, retail, and logistics.
-        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/los_nlos_pic.png
+        image: https://github.com/beksultantuleev/LOS_NLOS_detection/raw/main/data/gif_files/los_nlos_8sec.gif
+        # image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/los_nlos_pic.png
         featured:
           name: LOS/NLOS detection and mitigation
           link: https://github.com/beksultantuleev/LOS_NLOS_detection
