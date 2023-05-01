@@ -380,7 +380,8 @@ params:
       
       - title: Visualization of Reference Signal Received Power in Tableau
         content: The project visualizes signal strength data obtained from NetMAX using Tableau, a powerful data visualization software. By representing the average signal strength or RSRP (Reference Signal Received Power) of each point on a map, the project enables users to easily identify areas with poor signal coverage. With this information, network operators can take the necessary steps to improve the quality of their network coverage in these areas, ultimately leading to a better user experience for their customers. Overall, the project offers a simple and effective solution for analyzing and optimizing network coverage.
-        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/signal_coverage_netmax_.png
+        # image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/signal_coverage_netmax_.png
+        image: https://github.com/beksultantuleev/LOS_NLOS_detection/raw/main/data/gif_files/los_nlos_8sec.gif
         featured:
           name: Signal coverage in Tableau 
           link: https://github.com/beksultantuleev/LOS_NLOS_detection
