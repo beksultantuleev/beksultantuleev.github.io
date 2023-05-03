@@ -488,7 +488,7 @@ params:
       
 
       - title: Real-time motion recognition with Deep Learning (DL) Neural Network model application
-        content: The system is capable of recognizing motions based on Inertial Measurement Unit (IMU) data in real-time. In addition to that, the system is capable of registering new movements for further classification purposes..
+        content: The system is capable of recognizing motions based on Inertial Measurement Unit (IMU) data in real-time. In addition to that, the system is capable of registering new movements for further classification purposes.
         image: https://cdn3.botland.store/71187-large_default/stm32-nucleo-l053r8-module-low-power-stm32l053r8-arm-cortex-m0.jpg
         featured:
           name: Motion recognition
