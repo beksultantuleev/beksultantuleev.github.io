@@ -181,7 +181,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Data Automation Engineer and Data Scientist"
-        company: Nurtelecom
+        company: NUR Telecom
         companyUrl: "https://o.kg"
         date: "Apr 2022 - Mar 2022"
         featuredLink:
@@ -189,7 +189,7 @@ params:
           url: "https://www.o.kg/"
         info:
           enable: true
-          content: I worked as a Data Scientist / Data Automation Engineer.
+          content: NUR Telecom is a Mobile Carrier company in Kyrgyz Republic. I worked as a Data Scientist / Data Automation Engineer.
         content: |
           As a Data Scientist / Data Automation Engineer, my main focus was to improve workflow efficiency and automation of reports. I achieved this by introducing new methods for auto monitoring and restarting tasks/jobs in case of system failures. I'm particularly proud of this innovation, as it significantly improved productivity for the team. 
           
@@ -216,7 +216,7 @@ params:
           url: "https://www.theopenworkpartnership.com/about-us/"
         info:
           enable: true
-          content: I worked as Data Scientist Intern.
+          content: The Openwork Partnership is a Financial Advice and Investment company in UK. I worked as Data Scientist Intern.
         content: |
           As a Data Scientist Intern, I have been working on developing MultiOutput ML models to predict customers with a high likelihood of purchasing protection products in different income segments. Through my work, I have also created a custom framework that enables the operation of multiple models and generates embedded reports upon completion. This framework simplifies further ML applications and helps to streamline the entire process.
 
