@@ -386,7 +386,7 @@ params:
         image: /project_related_pics/signal_coverage_netmax_.jpg
         featured:
           name: Signal coverage in Tableau 
-          # link: https://github.com/beksultantuleev/LOS_NLOS_detection
+          link: /project_related_pics/signal_coverage_netmax_.jpg
         badges:
           - "NetMAX"
           - "Tableau"
@@ -401,7 +401,7 @@ params:
         image: /project_related_pics/paid_subs_per_settlement.jpg
         featured:
           name: Subscribers in Tableau 
-          # link: https://github.com/beksultantuleev/LOS_NLOS_detection
+          link: /project_related_pics/paid_subs_per_settlement.jpg
         badges:
           - "Tableau"
           - "Python"
@@ -414,7 +414,7 @@ params:
         image: /project_related_pics/active_customers_migration.jpg
         featured:
           name: Migration of Active Customers in Tableau 
-          # link: https://github.com/beksultantuleev/LOS_NLOS_detection
+          link: /project_related_pics/active_customers_migration.jpg
         badges:
           - "Tableau"
           - "Python"
