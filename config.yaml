@@ -474,7 +474,7 @@ params:
 
       - title: Application of Ultra-Wideband System in Unmanned Areal Vehicle (UAV)
         content: The system provides an application of Ultra-Wideband (UWB) technology to unmanned aerial vehicles (UAVs) for accurate positioning in indoor environments. The project utilized a Kalman filter to combine the Inertial Measurement Unit (IMU) of the UAV with an external UWB tag, ensuring centimeter-level accuracy for indoor aerial handling. By providing precise positioning, the UWB system enabled small UAVs or mini drones to perform complex tasks with greater accuracy, enhancing their capabilities in indoor environments.
-        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/mambo_side.jpg
+        image: https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/project_related_pics/mambo_side.JPG
         featured:
           name: UAV with UWB
           link: https://github.com/beksultantuleev/Mambo_UAV_with_UWB
