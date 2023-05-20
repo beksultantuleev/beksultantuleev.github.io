@@ -131,7 +131,7 @@ params:
       name: "Resume"
       url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_Tuleev_cv.pdf"
       # url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_s_cv.pdf"
-      download: true
+      download: false
       newPage: false
     
   
