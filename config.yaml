@@ -55,8 +55,9 @@ Menus:
 params:
   title: "Beksultan Tuleev"
   description: Personal blog
-  # staticPath: ""  # The path to serve the static files from
-  favicon: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png"
+  staticPath: ""  # The path to serve the static files from
+  favicon: "/profile_pic/BT logo.png"
+  # favicon: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/BT%20logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -129,8 +130,8 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_Tuleev_cv.pdf"
-      # url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_s_cv.pdf"
+      url: "/resume/Beksultan_Tuleev_cv.pdf"
+      # url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_Tuleev_cv.pdf"
       download: false
       newPage: false
     
@@ -138,9 +139,9 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fas fa-paperclip
-          url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_CV.pdf"
+          url: "/resume/Beksultan_CV.pdf"
         - icon: fas fa-paperclip
-          url: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/resume/Beksultan_ds_cv.pdf"
+          url: "/resume/Beksultan_ds_cv.pdf"
         - icon: fab fa-github
           url: https://www.github.com/beksultantuleev
         - icon: fab fa-linkedin
