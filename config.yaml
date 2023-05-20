@@ -105,7 +105,7 @@ params:
   navbar:
     align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "gitfolio" # Brand name for the brand | default is the title variable
+    brandName: "Beksultan Tuleev" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
       disableAbout: false
