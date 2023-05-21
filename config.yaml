@@ -50,7 +50,7 @@ Menus:
       name: Short resume
       url: /resume/Beksultan_CV.pdf
       parent: dropdown_resume
-      weight: 4
+      weight: 3
 
 params:
   title: "Beksultan Tuleev"
