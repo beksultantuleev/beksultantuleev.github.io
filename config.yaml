@@ -203,11 +203,11 @@ params:
     intro: "Hi, my name is"
     title: "Beksultan"
     subtitle: "or call me Beck :)"
-    content: "I am experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
-    # image: "https://unsplash.com/photos/KABfjuSOx74/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8bmV0d29ya3xlbnwwfHx8fDE2ODIzOTM5MDg&force=true"
-    image: "/profile_pic/moving_nodes.gif"
-    # image: "https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif"
-    # image: "https://i.pinimg.com/originals/17/88/17/178817246e4d06d1c7b50c842aea2a0a.gif"
+    # content: "I am experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
+    # image: "https://media.tenor.com/Ip7VsnSuPscAAAAC/memes-void.gif"
+    # image: "https://media.tenor.com/unObgJ2y7zkAAAAC/moving-formation.gif"
+    image: "/profile_pic/formation.gif"
+    # image: "/profile_pic/moving_nodes.gif"
     button:
       enable: true
       name: "Resume"
