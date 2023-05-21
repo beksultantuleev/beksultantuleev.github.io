@@ -66,7 +66,7 @@ Menus:
     - identifier: resume_dropdown1
       title: long_resume
       name: Long resume
-      url: /resume/Beksultan_Tuleev_cv.pdf
+      url: /resume/beksultan_tuleev_cv.pdf
       parent: dropdown_resume
       weight: 3
     - identifier: resume_dropdown2
@@ -78,7 +78,7 @@ Menus:
     - identifier: resume_dropdown3
       title: google_resume
       name: Google standard 
-      url: /resume/Beksultan_CV.pdf
+      url: /resume/beksultan_cv.pdf
       parent: dropdown_resume
       weight: 5
     - identifier: resume_dropdown4
@@ -174,7 +174,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         # - icon: fas fa-paperclip
-        #   url: "/resume/Beksultan_CV.pdf"
+        #   url: "/resume/beksultan_cv.pdf"
         # - icon: fas fa-paperclip
         #   url: "/resume/Beksultan_ds_cv.pdf"
         - icon: fab fa-github
