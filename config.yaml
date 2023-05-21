@@ -201,7 +201,7 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Beksultan."
+    title: "Beksultan"
     subtitle: "or call me Beck :)"
     content: "I am experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
     # image: "https://unsplash.com/photos/KABfjuSOx74/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8bmV0d29ya3xlbnwwfHx8fDE2ODIzOTM5MDg&force=true"
@@ -220,12 +220,12 @@ params:
       fontAwesomeIcons:
         # - icon: fas fa-paperclip
         #   url: "/resume/beksultan_cv.pdf"
-        # - icon: fas fa-paperclip
-        #   url: "/resume/Beksultan_ds_cv.pdf"
-        - icon: fab fa-github
-          url: https://www.github.com/beksultantuleev
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/beksultan-t-33b6601b6/
+        - icon: fab fa-github
+          url: https://www.github.com/beksultantuleev
+        - icon: fa fa-envelope
+          url: mailto:beksutlan.tuleev.ds@gmail.com
         
 
       # customIcons:
@@ -265,7 +265,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Data Automation Engineer and Data Scientist"
-        company: NUR Telecom
+        company: NUR Telecom LLC
         companyUrl: "https://o.kg"
         date: "Apr 2022 - Mar 2023"
         featuredLink:
