@@ -203,7 +203,7 @@ params:
     intro: "Hi, my name is"
     title: "Beksultan"
     subtitle: "or call me Beck :)"
-    # content: "I am experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
+    content: "I am experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
     # image: "https://media.tenor.com/Ip7VsnSuPscAAAAC/memes-void.gif"
     # image: "https://media.tenor.com/unObgJ2y7zkAAAAC/moving-formation.gif"
     image: "/profile_pic/formation.gif"
