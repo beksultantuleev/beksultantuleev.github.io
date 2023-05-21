@@ -166,7 +166,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/resume/Beksultan_Tuleev_cv.pdf"
+      url: "/resume/beksultan_tuleev_cv.pdf"
       download: false
       newPage: true
     
