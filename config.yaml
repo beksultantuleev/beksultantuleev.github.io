@@ -247,9 +247,10 @@ params:
         - "Python"
         - "TensorFlow"
         - "Scikit-Learn"
-        - "GIT"
+        - "Transformers / LLMs"
+        - "Git"
         - "Docker"
-        - "WSL"
+        - "WSL / Linux"
         - "Selenium / Scrapy"
         - "Tableau"
         - "PL/SQL"
@@ -258,6 +259,7 @@ params:
         - "Kafka"
         - "MQTT"
         - "Node-red"
+        - "AWS"
 
   # Experience
   experience:
