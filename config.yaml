@@ -65,25 +65,25 @@ Menus:
       weight: 3
     - identifier: resume_dropdown1
       title: long_resume
-      name: Long resume
+      name: Long CV
       url: /resume/beksultan_tuleev_cv.pdf
       parent: dropdown_resume
       weight: 3
     - identifier: resume_dropdown2
       title: google_resume
-      name: Short resume
+      name: Short CV
       url: /resume/beksultan_ds_cv.pdf
       parent: dropdown_resume
       weight: 4
     - identifier: resume_dropdown3
       title: google_resume
-      name: Google standard 
+      name: Google type CV 
       url: /resume/beksultan_cv.pdf
       parent: dropdown_resume
       weight: 5
     - identifier: resume_dropdown4
       title: achievements
-      name: Certification 
+      name: Achievements 
       url: /#achievements
       parent: dropdown_resume
       weight: 6
@@ -311,33 +311,18 @@ params:
         content: |-
           Master's Thesis: 
             - Non-line-of-sight Detection And Mitigation Using Machine Learning For Indoor Positioning Ultra-wideband System
-          
-          Relevant Coursework
-            - Big Data (Knime, AWS) 
-            - Data Mining 
-            - Machine Learning (sklearn) 
-            - Web Architecture (Java, Angular) 
-            - Embedded Systems (C, Linux, Raspberry Pi) 
-            - Distributed Systems (MatLab) 
-            - Scientific Programming (Python) 
-            - Deep Learning (TensorFlow) 
-            - Statistics (R) 
-            - Visualisation (Matplotlib, Tableau, Power Bi)
+
       
       - title: "Master of Arts in Economic Governance and Development"
         school:
           name: "OSCE Academy, Kyrgyz Republic"
           url: "https://www.osce-academy.net/en/"
         date: "2017 - 2018"
-        # GPA: "100 out of 110"
+        GPA: "3 out of 4"
         content: |-
           Master's Thesis: 
             - The Impact of Trade Openness on Technical Efficiency in the Agricultural Sector in Post-Soviet Countries 1990-2014
           
-          Relevant Coursework
-            - Statistics
-            - Econometrics 
-            - Trade
 
 
       - title: "Bachelor of Arts in Economics and applied Mathematics"
@@ -345,29 +330,10 @@ params:
           name: "American University of Central Asia"
           url: "https://auca.kg"
         date: "2013 - 2017"
-        # GPA: "3.9 out of 5.0"
+        GPA: "3 out of 4"
         content: |-
           Bachelor's Thesis: 
             - Quantitative Economics Research, The Application Of Dantzig's Simplex Algorithm On The Micro-construction CompanyBachelor's.
-          
-          Relevant Coursework (Programming)
-            - Object-Oriented Programming (Java)
-            - Numerical Methods (C#)
-            - Physics and Computer modeling (Octave)
-
-          Relevant Coursework (Mathematics)
-            - Linear Algebra and Analytic Geometry
-            - Mathematical Analysis
-            - Functional Analysis
-            - Game Theory
-            - Optimization Methods
-            - The Theory of Probabilities and Mathematical Statistics
-            - Numerical Methods
-
-          Relevant Coursework (Economics)
-            - Intermediate Microeconomics Theory, Intermediate Macroeconomic Theory, Mathematical  Economics, Applied Econometrics, Monetary and Banking Theory, International Economics, Economic Development, Economic Research Methods, Economics of the Public Sector
-          
-
 
         # featuredLink:
         #   enable: true
@@ -378,11 +344,21 @@ params:
         school:
           name: "School #61 "
           url: "https://61.edubish.kg/"
+        date: "2006 - 2013"
         # GPA: "4.2 out of 5.0"
         # featuredLink:
         #   enable: true
         #   url: "https://example.com"
-
+      
+      - title: "School"
+        school:
+          name: "School #63 "
+          # url: "https://61.edubish.kg/"
+        date: "2002 - 2006"
+        # GPA: "4.2 out of 5.0"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
   # Achievements
   achievements:
     enable: true
