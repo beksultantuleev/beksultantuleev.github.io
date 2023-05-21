@@ -24,25 +24,66 @@ markup:
 
 Menus:
   main:
-    # - identifier: github
-    #   name: GitHub
-    #   title: Blog posts
-    #   url: https://www.github.com/beksultantuleev
+    # - identifier: home
+    #   name: Home
+    #   title: Home
+    #   url: /
     #   weight: 1
+    - identifier: dropdown_home
+      title: home menu
+      name: Home
+      weight: 1
+    
+    - identifier: dropdown_aboutme
+      title: about me menu
+      name: About me
+      url: /#about
+      weight: 2
+    
+    - identifier: education_aboutme
+      title: education menu
+      name: Education
+      url: /#education
+      weight: 2
     # - identifier: gallery
     #   name: Gallery
     #   title: Blog posts
     #   url: /galary.html
     #   weight: 2
     # Dropdown menu
-    - identifier: dropdown_contacts
-      title: Example dropdown menu
-      name: Contacts
+
+    #experience dropdown
+    - identifier: dropdown_experience
+      title: main experience dropdown menu
+      name: Experience
       weight: 2
+    - identifier: experience_dropdown1
+      title: email
+      name: Work Experience
+      url: /#experience
+      parent: dropdown_experience
+      weight: 1
+    - identifier: experience_dropdown2
+      title: email
+      name: Project works
+      url: /#projects
+      parent: dropdown_experience
+      weight: 2
+    - identifier: experience_dropdown3
+      title: Achievements
+      name: Achievements
+      url: /#achievements
+      parent: dropdown_experience
+      weight: 3
+
+    #contacts dropdown
+    - identifier: dropdown_contacts
+      title: main contacts dropdown menu
+      name: Contacts
+      weight: 3
     - identifier: contacts_dropdown1
       title: email
       name: Email
-      # url: mailto:beksultan.tuleev.ds@gmail.com
       url: /#contact
       parent: dropdown_contacts
       weight: 3
@@ -58,11 +99,12 @@ Menus:
       url: https://www.github.com/beksultantuleev
       parent: dropdown_contacts
       weight: 4
+    
     #resume dropdowns
     - identifier: dropdown_resume
-      title: Example dropdown menu
+      title: main resume dropdown menu
       name: Resume
-      weight: 3
+      weight: 4
     - identifier: resume_dropdown1
       title: long_resume
       name: Long CV
@@ -81,12 +123,12 @@ Menus:
       url: /resume/beksultan_cv.pdf
       parent: dropdown_resume
       weight: 5
-    - identifier: resume_dropdown4
-      title: achievements
-      name: Achievements 
-      url: /#achievements
-      parent: dropdown_resume
-      weight: 6
+    # - identifier: resume_dropdown4
+    #   title: achievements
+    #   name: Achievements 
+    #   url: /#achievements
+    #   parent: dropdown_resume
+    #   weight: 6
     
 
 params:
@@ -145,10 +187,10 @@ params:
     brandName: "Beksultan Tuleev" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
-      disableAbout: false
-      disableExperience: false
-      disableEducation: false
-      disableProjects: false
+      disableExperience: true
+      disableAbout: true
+      disableEducation: true
+      disableProjects: true
       disableAchievements: true
       disableContact: true
 
