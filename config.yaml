@@ -35,22 +35,59 @@ Menus:
     #   url: /galary.html
     #   weight: 2
     # Dropdown menu
+    - identifier: dropdown_contacts
+      title: Example dropdown menu
+      name: Contacts
+      weight: 2
+    - identifier: contacts_dropdown1
+      title: email
+      name: Email
+      # url: mailto:beksultan.tuleev.ds@gmail.com
+      url: /#contact
+      parent: dropdown_contacts
+      weight: 3
+    - identifier: contacts_dropdown2
+      title: linkedin
+      name: LinkedIn 
+      url: https://www.linkedin.com/in/beksultan-t-33b6601b6/
+      parent: dropdown_contacts
+      weight: 4
+    - identifier: contacts_dropdown3
+      title: github
+      name: GitHub 
+      url: https://www.github.com/beksultantuleev
+      parent: dropdown_contacts
+      weight: 4
+    #resume dropdowns
     - identifier: dropdown_resume
       title: Example dropdown menu
       name: Resume
       weight: 3
-    - identifier: dropdown1
-      title: example dropdown 1
+    - identifier: resume_dropdown1
+      title: long_resume
       name: Long resume
       url: /resume/Beksultan_Tuleev_cv.pdf
       parent: dropdown_resume
-      weight: 4
-    - identifier: dropdown2
-      title: example dropdown 2
+      weight: 3
+    - identifier: resume_dropdown2
+      title: google_resume
       name: Short resume
+      url: /resume/beksultan_ds_cv.pdf
+      parent: dropdown_resume
+      weight: 4
+    - identifier: resume_dropdown3
+      title: google_resume
+      name: Google standard 
       url: /resume/Beksultan_CV.pdf
       parent: dropdown_resume
-      weight: 3
+      weight: 5
+    - identifier: resume_dropdown4
+      title: achievements
+      name: Certification 
+      url: /#achievements
+      parent: dropdown_resume
+      weight: 6
+    
 
 params:
   title: "Beksultan Tuleev"
@@ -112,16 +149,16 @@ params:
       disableExperience: false
       disableEducation: false
       disableProjects: false
-      disableAchievements: false
-      disableContact: false
+      disableAchievements: true
+      disableContact: true
 
   # Hero
   hero:
     enable: true
     intro: "Hi, my name is"
     title: "Beksultan."
-    subtitle: "I am"
-    content: "Experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
+    subtitle: "or call me Beck :)"
+    content: "I am experienced Data Scientist who is passionate about automation and efficiency. Open-minded towards cutting-edge technologies and certified Linux user. Proactive team player with a focus on collaboration."
     # image: "https://unsplash.com/photos/KABfjuSOx74/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8bmV0d29ya3xlbnwwfHx8fDE2ODIzOTM5MDg&force=true"
     image: "/profile_pic/moving_nodes.gif"
     # image: "https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif"
@@ -136,10 +173,10 @@ params:
   
     socialLinks:
       fontAwesomeIcons:
-        - icon: fas fa-paperclip
-          url: "/resume/Beksultan_CV.pdf"
-        - icon: fas fa-paperclip
-          url: "/resume/Beksultan_ds_cv.pdf"
+        # - icon: fas fa-paperclip
+        #   url: "/resume/Beksultan_CV.pdf"
+        # - icon: fas fa-paperclip
+        #   url: "/resume/Beksultan_ds_cv.pdf"
         - icon: fab fa-github
           url: https://www.github.com/beksultantuleev
         - icon: fab fa-linkedin
@@ -512,11 +549,11 @@ params:
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     email: beksultan.tuleev.ds@gmail.com
     btnName: Mail me
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+    formspree:
+      enable: true # `contact.email` value will be ignored
+      formId: xdovvnra # Take it from your form's endpoint, like 'https://formspree.io/f/xdovvnra'
+      emailCaption: "Enter your email address"
+      messageCaption: "Enter your message here"
 
   footer:
     recentPosts:
