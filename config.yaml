@@ -236,7 +236,6 @@ params:
   about:
     enable: true
     title: "About Me"
-    # image: "https://github.com/beksultantuleev/beksultantuleev.github.io/raw/main/data/profile_pic/photo_in_classic.JPG"
     image: "/profile_pic/Beksultan_photo.jpeg"
     content: |-
       I am a data professional with a Master's degree in Data Science and experience in data analytics and machine learning. My goal is to help organizations make data-driven decisions and improve their operations through the use of advanced analytical techniques. I am always looking for new and challenging opportunities to apply my skills and knowledge to make a positive impact on businesses and industries.
@@ -411,6 +410,10 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Fundamentals of digital marketing
+        content: Completed course and passed exam.
+        url: /certificates/digitalgarage_certificate.pdf
+
       - title: One of the Best Employees (Q4, 2022)
         content: Developed progressive reporting systems.
         url: /certificates/best_emp.pdf
