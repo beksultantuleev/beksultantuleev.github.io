@@ -211,7 +211,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/resume/beksultan_tuleev_cv.pdf"
+      url: "/resume/beksultan_ds_cv.pdf"
       download: false
       newPage: true
     
@@ -265,7 +265,23 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Data Automation Engineer and Data Scientist"
+      - job: "Data Science and Data Analyst Consultant"
+        company: "Spalmalo"
+        companyUrl: "https://spalmalo.com/en/"
+        date: "Oct 2022 - Present"
+        featuredLink:
+          enable: true
+          url: "https://spalmalo.com/en/"
+        info:
+          enable: true
+          content: Spalmalo is a Software and Design company.
+        content: |
+          As a Data Scientist and Data Analyst Consultant, my main focus was to improve decision-making in different projects and enable operational efficiency through data-driven insights and advanced analytics.
+          
+
+      
+
+      - job: "Data Scientist"
         company: NUR Telecom LLC
         companyUrl: "https://o.kg"
         date: "Apr 2022 - Mar 2023"
@@ -274,22 +290,20 @@ params:
           url: "https://www.o.kg/"
         info:
           enable: true
-          content: NUR Telecom is a Mobile Carrier company in Kyrgyz Republic. I worked as a Data Scientist / Data Automation Engineer.
+          content: NUR Telecom is a Mobile Carrier company in Kyrgyz Republic.
         content: |
           As a Data Scientist / Data Automation Engineer, my main focus was to improve workflow efficiency and automation of reports. I achieved this by introducing new methods for auto monitoring and restarting tasks/jobs in case of system failures. I'm particularly proud of this innovation, as it significantly improved productivity for the team. 
           
           Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, where I delivered a few network coverage projects from scratch. These projects were essential to improving the company's infrastructure. Overall, my work demonstrated my expertise in both data analytics and spatial analysis, as well as my ability to implement innovative solutions that increased efficiency and productivity.
 
-          - Developed and implemented a machine learning project to predict active customers for a major cell provider.
-          - Trained four models and incorporated automatic feature selection every month to ensure optimal performance.
-          - Achieved impressive results with about 99% recall and precision.
+          - Trained multiple models with high performance and incorporated automatic feature selection every month to ensure optimal performance.
           - Identified customers likely to reduce activity two weeks earlier, providing valuable insights to the marketing department.
           - Created an opportunity to improve customer retention and increase revenue for the company.
           - Developed a Python library for streamlined connection to Oracle databases, enabling efficient retrieval and upload of both regular and spatial data.
           - Developed a Telegram bot to streamline task and job management in Oracle, reducing the time and effort required for maintenance and control of these processes.
           - Implemented automatic failure recovery, which allows failed tasks to be automatically restarted in the event of external failures, improving system reliability and reducing downtime.
           - Contributed to increased productivity and efficiency within the department by providing an accessible and user-friendly interface for managing complex processes.
-          - Developed neural network-based time-series forecasting of Active Customers’ numbers in Python (TensorFlow) with visualisation in Tableau.
+          - Developed time-series forecasting of Active Customers’ numbers in Python (TensorFlow) with visualisation in Tableau.
           - Became one of the best employees (Q4 2022) for developing progressive reporting systems and automating processes.        
 
       - job: "Data Scientist Intern"
@@ -301,7 +315,7 @@ params:
           url: "https://www.theopenworkpartnership.com/about-us/"
         info:
           enable: true
-          content: The Openwork Partnership is a Financial Advice and Investment company in UK. I worked as Data Scientist Intern.
+          content: The Openwork Partnership is a Financial Advice and Investment company in UK.
         content: |
           As a Data Scientist Intern, I have been working on developing MultiOutput ML models to predict customers with a high likelihood of purchasing protection products in different income segments. Through my work, I have also created a custom framework that enables the operation of multiple models and generates embedded reports upon completion. This framework simplifies further ML applications and helps to streamline the entire process.
 
