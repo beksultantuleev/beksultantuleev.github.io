@@ -378,7 +378,7 @@ params:
           name: "OSCE Academy, Kyrgyz Republic"
           url: "https://www.osce-academy.net/en/"
         date: "2017 - 2018"
-        GPA: "3 out of 4"
+        # GPA: "3 out of 4"
         content: |-
           Master's Thesis: 
             - The Impact of Trade Openness on Technical Efficiency in the Agricultural Sector in Post-Soviet Countries 1990-2014
@@ -390,7 +390,7 @@ params:
           name: "American University of Central Asia"
           url: "https://auca.kg"
         date: "2013 - 2017"
-        GPA: "3 out of 4"
+        # GPA: "3 out of 4"
         content: |-
           Bachelor's Thesis: 
             - Quantitative Economics Research, The Application Of Dantzig's Simplex Algorithm On The Micro-construction CompanyBachelor's.
