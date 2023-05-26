@@ -17,6 +17,21 @@ enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
 
+# languages:
+#   en:
+#     languageName: English
+#     weight: 1
+#   fr:
+#     languageName: Français
+#     weight: 2
+#     description: Tous ce que vous avez toujours voulu savoir sur les trois langues.
+#     twitter_handle: 3Languages_france
+#   es:
+#     languageName: Spanish
+#     weight: 3
+#     description: Todo lo que necesitas saber sobre los tres idiomas.
+#     twitter_handle: 3Languages_espana
+
 markup:
   goldmark:
     renderer:
