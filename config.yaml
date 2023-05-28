@@ -440,6 +440,10 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: Perform Foundational Data, ML, and AI Tasks in Google Cloud
+        content: Google Cloud Skill Boost 
+        url: https://www.cloudskillsboost.google/public_profiles/743d4bcc-c015-4831-8fcf-1b7fe662b651/badges/3771653?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
+
       - title: Google Cloud Computing Foundations
         content: Google Cloud Skill Boost 
         url: https://www.cloudskillsboost.google/public_profiles/743d4bcc-c015-4831-8fcf-1b7fe662b651/badges/3758957?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share
