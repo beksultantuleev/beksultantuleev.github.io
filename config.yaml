@@ -292,7 +292,9 @@ params:
           enable: true
           content: Spalmalo is an IT Services and Consulting company.
         content: |
-          As a Data Scientist and Data Analyst Consultant, my main focus was to improve decision-making in different projects and enable operational efficiency through data-driven insights and advanced analytics.
+          As a Data Scientist and Data Analyst Consultant, my main focus was to 
+          improve decision-making in different projects and enable operational efficiency through 
+          data-driven insights and advanced analytics.
           
 
       
@@ -308,9 +310,16 @@ params:
           enable: true
           content: NUR Telecom is a Mobile Carrier company in Kyrgyz Republic.
         content: |
-          As a Data Scientist / Data Automation Engineer, my main focus was to improve workflow efficiency and automation of reports. I achieved this by introducing new methods for auto monitoring and restarting tasks/jobs in case of system failures. I'm particularly proud of this innovation, as it significantly improved productivity for the team. 
+          As a Data Scientist / Data Automation Engineer, my main focus was 
+          to improve workflow efficiency and automation of reports. I achieved this by introducing 
+          new methods for auto monitoring and restarting tasks/jobs in case of system failures. 
+          I'm particularly proud of this innovation, as it significantly improved productivity for the team. 
           
-          Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, where I delivered a few network coverage projects from scratch. These projects were essential to improving the company's infrastructure. Overall, my work demonstrated my expertise in both data analytics and spatial analysis, as well as my ability to implement innovative solutions that increased efficiency and productivity.
+          Additionally, I had the opportunity to work as a GeoSpatial Data Scientist, 
+          where I delivered a few network coverage projects from scratch. 
+          These projects were essential to improving the company's infrastructure. 
+          Overall, my work demonstrated my expertise in both data analytics and spatial analysis, 
+          as well as my ability to implement innovative solutions that increased efficiency and productivity.
 
           - Trained multiple models with high performance and incorporated automatic feature selection every month to ensure optimal performance.
           - Identified customers likely to reduce activity two weeks earlier, providing valuable insights to the marketing department.
@@ -342,7 +351,42 @@ params:
           - Achieved great results that were very helpful for the marketing team.
           - Generated reports with necessary graphs and analysis to showcase the findings.
 
+      - job: "Procurement and IT Assistant"
+        company: "Mercy Corps"
+        companyUrl: "https://www.mercycorps.org/where-we-work/kyrgyzstan"
+        date: "Feb 2019 - Aug 2019"
+        featuredLink:
+          enable: true
+          url: "https://www.mercycorps.org/where-we-work/kyrgyzstan"
+        info:
+          enable: true
+          content: Mercy Corps is a global team of humanitarians working together on the front lines of today’s biggest crises to create a future of possibility, where everyone can prosper.
+        content: |
+          As a Procurement Assistant at Mercy Corps, I assisted in sourcing and purchasing
+          kitchen equipment for a food security project in rural areas,
+          improving access to healthy food for children. My work supported
+          the successful implementation of the project and contributed to
+          long-term community development.
       
+      - job: "Project Management Assistant"
+        company: "UNDP"
+        companyUrl: "https://www.undp.org/kyrgyzstan"
+        date: "Aug 2018 - Dec 2018"
+        featuredLink:
+          enable: true
+          url: "https://www.undp.org/kyrgyzstan"
+        info:
+          enable: true
+          content: UNDP has Global Goals, which are a universal call to action to end poverty, protect the planet and ensure that all people enjoy peace and prosperity.
+        content: |
+          As a Project Management Assistant at UNDP, I provided
+          administrative support for a project aimed at protecting snow
+          leopards and their habitats. I coordinated logistics and assisted with
+          reporting, contributing to the successful implementation of the
+          project and promoting sustainable development in the communities
+          we served.
+
+
       # - job: "Junior Software Developer"
       #   company: "Apple"
       #   companyUrl: "https://example.com"
