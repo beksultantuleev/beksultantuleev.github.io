@@ -281,10 +281,24 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+
+      - job: "Senior Data Scientist"
+        company: NUR Telecom LLC
+        companyUrl: "https://o.kg"
+        date: "Sep 2022 - Present"
+        featuredLink:
+          enable: true
+          url: "https://www.o.kg/"
+        info:
+          enable: true
+          content: NUR Telecom is a Mobile Carrier company in Kyrgyz Republic.
+        content: |
+          My journey just started
+
       - job: "Data Science and Data Analyst Consultant"
         company: "Spalmalo"
         companyUrl: "https://spalmalo.com/en/"
-        date: "Oct 2022 - Present"
+        date: "Oct 2022 - Sep 2023"
         featuredLink:
           enable: true
           url: "https://spalmalo.com/en/"
@@ -296,8 +310,6 @@ params:
           improve decision-making in different projects and enable operational efficiency through 
           data-driven insights and advanced analytics.
           
-
-      
 
       - job: "Data Scientist"
         company: NUR Telecom LLC
@@ -532,7 +544,21 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      
+
+      - title: Watering plants
+        content: description comming soon.
+        image: 
+        featured:
+          name: Watering plants 
+          link: /project_related_pics/signal_coverage_netmax_.jpg
+        badges:
+          - "C"
+          - "ESP32"
+          - "MQTT"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/beksultantuleev/smart_plants_watering
+
       - title: Visualization of Reference Signal Received Power in Tableau
         content: The project visualizes signal strength data obtained from NetMAX using Tableau, a powerful data visualization software. By representing the average signal strength or RSRP (Reference Signal Received Power) of each point on a map, the project enables users to easily identify areas with poor signal coverage. With this information, network operators can take the necessary steps to improve the quality of their network coverage in these areas, ultimately leading to a better user experience for their customers. Overall, the project offers a simple and effective solution for analyzing and optimizing network coverage.
         image: /project_related_pics/signal_coverage_netmax_.jpg
