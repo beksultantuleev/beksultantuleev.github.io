@@ -446,7 +446,7 @@ params:
           Master's Thesis: 
             - Non-line-of-sight Detection And Mitigation Using Machine Learning For Indoor Positioning Ultra-wideband System
 
-      - title: "Master of Business Administration in Agricultural Sector"
+      - title: "MBA in Agricultural Sector"
         school:
           name: "Kyrgyz National Agricultural University, Kyrgyz Republic"
           url: "https://www.knau.kg/"
@@ -454,7 +454,7 @@ params:
         # GPA: "3 out of 4"
         content: |-
           Master's Thesis: 
-            - The Impact of Trade Openness on Technical Efficiency in the Agricultural Sector in Post-Soviet Countries 1990-2014
+            - Evaluating How Trade Liberalization Influences Agricultural Efficiency in Former Soviet States
       
       
       - title: "Master of Arts in Economic Governance and Development"
