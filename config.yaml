@@ -123,24 +123,24 @@ Menus:
       title: main resume dropdown menu
       name: Resume
       weight: 4
-    - identifier: resume_dropdown1
-      title: long_resume
-      name: Long CV
-      url: /resume/beksultan_tuleev_cv.pdf
-      parent: dropdown_resume
-      weight: 3
+    # - identifier: resume_dropdown1
+    #   title: long_resume
+    #   name: Long CV
+    #   url: /resume/beksultan_tuleev_cv.pdf
+    #   parent: dropdown_resume
+    #   weight: 3
     - identifier: resume_dropdown2
-      title: google_resume
+      title: purple_resume
       name: Short CV
       url: /resume/beksultan_ds_cv.pdf
       parent: dropdown_resume
       weight: 4
-    - identifier: resume_dropdown3
-      title: google_resume
-      name: Googler's CV 
-      url: /resume/beksultan_cv.pdf
-      parent: dropdown_resume
-      weight: 5
+    # - identifier: resume_dropdown3
+    #   title: google_resume
+    #   name: Googler's CV 
+    #   url: /resume/beksultan_cv.pdf
+    #   parent: dropdown_resume
+    #   weight: 5
     # - identifier: resume_dropdown4
     #   title: achievements
     #   name: Achievements 
@@ -293,22 +293,24 @@ params:
           enable: true
           content: NUR Telecom is a Mobile Carrier company in Kyrgyz Republic.
         content: |
-          My journey just started
+          As a Senior Data Scientist, I lead a team in developing data-driven solutions. 
+          My responsibilities include managing projects, implementing advanced analytics, and building predictive models. 
+          I work closely with cross-functional teams to meet business needs and mentor junior team members, fostering a culture of continuous learning and innovation.
 
-      - job: "Data Science and Data Analyst Consultant"
-        company: "Spalmalo"
-        companyUrl: "https://spalmalo.com/en/"
-        date: "Oct 2022 - Sep 2023"
-        featuredLink:
-          enable: true
-          url: "https://spalmalo.com/en/"
-        info:
-          enable: true
-          content: Spalmalo is an IT Services and Consulting company.
-        content: |
-          As a Data Scientist and Data Analyst Consultant, my main focus was to 
-          improve decision-making in different projects and enable operational efficiency through 
-          data-driven insights and advanced analytics.
+      # - job: "Data Science and Data Analyst Consultant"
+      #   company: "Spalmalo"
+      #   companyUrl: "https://spalmalo.com/en/"
+      #   date: "Oct 2022 - Sep 2023"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://spalmalo.com/en/"
+      #   info:
+      #     enable: true
+      #     content: Spalmalo is an IT Services and Consulting company.
+      #   content: |
+      #     As a Data Scientist and Data Analyst Consultant, my main focus was to 
+      #     improve decision-making in different projects and enable operational efficiency through 
+      #     data-driven insights and advanced analytics.
           
 
       - job: "Data Scientist"
@@ -444,6 +446,16 @@ params:
           Master's Thesis: 
             - Non-line-of-sight Detection And Mitigation Using Machine Learning For Indoor Positioning Ultra-wideband System
 
+      - title: "Master of Business Administration in Agricultural Sector"
+        school:
+          name: "Kyrgyz National Agricultural University, Kyrgyz Republic"
+          url: "https://www.knau.kg/"
+        date: "2017 - 2019"
+        # GPA: "3 out of 4"
+        content: |-
+          Master's Thesis: 
+            - The Impact of Trade Openness on Technical Efficiency in the Agricultural Sector in Post-Soviet Countries 1990-2014
+      
       
       - title: "Master of Arts in Economic Governance and Development"
         school:
