@@ -559,10 +559,10 @@ params:
 
       - title: Plants watering automation
         content:  This project involves an automated plant watering system using an MCU ESP8266 with Wi-Fi capabilities. The system utilizes MQTT for communication and a moisture sensor to monitor soil humidity levels. When the sensor detects low moisture, it automatically triggers watering, ensuring optimal soil conditions for plant growth. This setup allows for remote monitoring and control, enhancing efficiency and convenience in plant care.
-        image: /static/project_related_pics/watering_plants.png
+        image: /project_related_pics/watering_plants.png
         featured:
           name: Watering plants 
-          link: /static/project_related_pics/watering_plants.png
+          link: /project_related_pics/watering_plants.png
         badges:
           - "C"
           - "ESP32"
