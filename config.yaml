@@ -557,12 +557,12 @@ params:
     # title: "Custom Name"
     items:
 
-      - title: Watering plants
-        content: description comming soon.
+      - title: Plants watering automation
+        content:  This project involves an automated plant watering system using an MCU ESP8266 with Wi-Fi capabilities. The system utilizes MQTT for communication and a moisture sensor to monitor soil humidity levels. When the sensor detects low moisture, it automatically triggers watering, ensuring optimal soil conditions for plant growth. This setup allows for remote monitoring and control, enhancing efficiency and convenience in plant care.
         image: 
         featured:
           name: Watering plants 
-          link: /project_related_pics/signal_coverage_netmax_.jpg
+          link: /static/project_related_pics/watering_plants.png
         badges:
           - "C"
           - "ESP32"
@@ -614,7 +614,7 @@ params:
 
       - title: Library In Python For Efficient Database Connection
         content: A versatile library to facilitate connection and manipulation of Oracle databases, leveraging efficient algorithms for seamless handling of spatial data.
-        image: https://pypi.org/static/images/logo-small.2a411bc6.svg
+        image: https://pypi.org/static/images/logo-small.8998e9d1.svg
         featured:
           name: nurtelecom-gras-library
           link: https://pypi.org/project/nurtelecom-gras-library/
